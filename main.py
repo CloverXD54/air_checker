@@ -2,11 +2,11 @@ import streamlit as st
 import pickle
 
 
-reg_model = open('D:/Kampus Things/MSIB STUPEN/final_project/lin_reg_model.pkl', 'rb')
-read_1 = pickle.load(reg_model) 
 
-scaler_f = open('D:/Kampus Things/MSIB STUPEN/final_project/scaler.pkl', 'rb')
-read_2 = pickle.load(scaler_f)
+read_1 = pickle.load(D:/\Kampus Things/MSIB STUPEN/final_project/main.py) 
+
+
+
 
 #page title
 st.title('Air Checker')
