@@ -3,7 +3,7 @@ import pickle
 
 
 
-read_1 = pickle.load(open("/mount/src/air_checker/lin_reg_model.pkl,", 'rb')) 
+read_1 = pickle.load(open("/mount/src/air_checker/lin_reg_model.pkl", 'rb')) 
 
 
 
