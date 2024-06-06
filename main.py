@@ -3,7 +3,7 @@ import pickle
 
 
 
-read_1 = pickle.load(D:/\Kampus Things/MSIB STUPEN/final_project/main.py) 
+read_1 = pickle.load(D:/Kampus Things/MSIB STUPEN/final_project/main.py) 
 
 
 
